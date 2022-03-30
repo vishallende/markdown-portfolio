@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
- cnnfgjgyj
 {% include 01-name.md %}
 
 <br>
